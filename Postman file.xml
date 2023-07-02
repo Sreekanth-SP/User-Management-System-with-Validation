@@ -1,12 +1,11 @@
-Postman file
+## Postman file
 
-Link :: https://elements.getpostman.com/redirect?entityId=25491641-532916a3-9194-4cac-9e6b-9dc9a0d94aa7&entityType=collection
+> `Link:: https://elements.getpostman.com/redirect?entityId=25491641-532916a3-9194-4cac-9e6b-9dc9a0d94aa7&entityType=collection`
+----
 
+> THIS PROJECT IS ONLY FOR LEARNING PURPOSE. AND THIS DATA ARE ONLY FOR TESTING THE PROJECT. 
 
-THIS PROJECT IS ONLY FOR LEARNING PURPOSE. AND THIS DATAS ARE ONLY FOR TESTING THE PROJECT. 
-
-Data to be added for checking purpose in POSTMAN
-
+* **Data to be added for checking purposes in POSTMAN**
 
 --- Add users (POST MAPPING)
 
@@ -46,12 +45,8 @@ Data to be added for checking purpose in POSTMAN
 }
 
 ---- READ the Users (GET MAPPING)
-
-
 ---- UPDATE the Users (PUT MAPPING)
-
-
 ---- REMOVE the User (DELETE MAPPING)
 
-More Information about the postman and urls are given in the above link.
+More Information about the postman and URLs is given in the above link.
 
