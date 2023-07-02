@@ -1,0 +1,57 @@
+Postman file
+
+Link :: https://elements.getpostman.com/redirect?entityId=25491641-532916a3-9194-4cac-9e6b-9dc9a0d94aa7&entityType=collection
+
+
+THIS PROJECT IS ONLY FOR LEARNING PURPOSE. AND THIS DATAS ARE ONLY FOR TESTING THE PROJECT. 
+
+Data to be added for checking purpose in POSTMAN
+
+
+--- Add users (POST MAPPING)
+
+[
+	{
+        "userId": 2,
+        "userName": "Virat Kohli",
+        "dateOfBirth": "1988-11-05",
+        "email": "vk@indiancricket.com",
+        "phoneNumber": "919108181897",
+        "dateOfJoining": "2008-08-18",
+        "timeOfJoining": "01:18:00"
+	},
+
+
+	{
+        "userId": 3,
+        "userName": "Sachin Tendulkar",
+        "dateOfBirth": "1973-04-24",
+        "email": "sachinrtendulkar@bcci.com",
+        "phoneNumber": "919108107107",
+        "dateOfJoining": "1989-11-15",
+        "timeOfJoining": "10:10:00"
+ 	}
+]
+
+----Add User (POSTMAPPING)
+
+{
+        "userId": 4,
+        "userName": "Rohit Sharma",
+        "dateOfBirth": "1987-04-30",
+        "email": "rgsharma@bcci.com",
+        "phoneNumber": "919108457457",
+        "dateOfJoining": "2007-06-23",
+        "timeOfJoining": "10:45:00"
+}
+
+---- READ the Users (GET MAPPING)
+
+
+---- UPDATE the Users (PUT MAPPING)
+
+
+---- REMOVE the User (DELETE MAPPING)
+
+More Information about the postman and urls are given in the above link.
+
