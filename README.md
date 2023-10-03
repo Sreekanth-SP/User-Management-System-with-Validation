@@ -1,4 +1,3 @@
-
 # User Management System with Validation
 > User Management System using Springboot Annotations and validation by Java.
 ` This is a simple User Management System implemented using Java with the Spring Web framework, Lombok, and validation. The project utilizes ArrayList as the data structure to store user information.`
